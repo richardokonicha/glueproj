@@ -7,7 +7,7 @@ Glueproj is a CDK project that automates the setup of AWS Glue components for da
 To install Glueproj, clone the repository and run the following commands:
 
 ```bash
-git clone <repository_url>
+git clone github.com/richardokonicha/glueproj
 cd glueproj
 npm install
 ```
